@@ -630,6 +630,7 @@ nav a:hover {
 }
 
 .review .box {
+    width: 350px;
     padding: 2rem;
     text-align: center;
     border-radius: 1rem;
